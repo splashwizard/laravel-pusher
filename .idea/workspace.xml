@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01a1e2f6-b1c6-4a77-94bc-5ca5dfec290b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LatestPusherBackup.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LatestWebsocketBackup.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainApp/app/Http/Controllers/API/PusherAPIController.php" beforeDir="false" afterPath="$PROJECT_DIR$/MainApp/app/Http/Controllers/API/PusherAPIController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainApp/app/Http/Controllers/API/PusherNewAPIController.php" beforeDir="false" afterPath="$PROJECT_DIR$/MainApp/app/Http/Controllers/API/PusherNewAPIController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainApp/app/Http/Controllers/API/authNew.json" beforeDir="false" afterPath="$PROJECT_DIR$/MainApp/app/Http/Controllers/API/authNew.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainApp/app/Models/Device.php" beforeDir="false" afterPath="$PROJECT_DIR$/MainApp/app/Models/Device.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainApp/resources/views/home/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/MainApp/resources/views/home/index.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/MainApp/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/MainApp/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/composer" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/google/cloud-core" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/google/cloud-storage" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/jlapp/swaggervel" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/giggsey/locale" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/giggsey/libphonenumber-for-php" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/kreait/gcp-metadata" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/kreait/firebase-tokens" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/kreait/firebase-php" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/rize/uri-template" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/orangehill/iseed" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/prettus/laravel-validation" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/prettus/l5-repository" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/superbalist/flysystem-google-storage" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/thanks" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/xethron/migrations-generator" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/xethron/laravel-4-generators" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/infyomlabs/laravel-generator" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/laracasts/flash" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/infyomlabs/adminlte-templates" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/infyomlabs/swagger-generator" />
+      <path value="$PROJECT_DIR$/MainApp/vendor/phpspec/prophecy" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1V1gUOknMLJWSQd2E90UZD8JMxi" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a1e2f6-b1c6-4a77-94bc-5ca5dfec290b" name="Default Changelist" comment="" />
+      <created>1576426029815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576426029815</updated>
+      <workItem from="1576426030944" duration="9505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
